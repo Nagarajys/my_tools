@@ -1,9 +1,9 @@
 def add(a, b):
-    print(a + b)
+    print(a + b) # fix add function here
 add(10, 20)
 
 
 
-def subtract(a, b):
+def subtract(a, b):# dummy change added
     print(a - b)
 subtract(10, 5)
