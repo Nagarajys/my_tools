@@ -1,0 +1,41 @@
+[33mcommit c7a49fe40c6658dd537f15b1043ecd08d5b8cc3b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Fri Nov 20 20:16:32 2026 +0530
+
+    urgent change
+
+[33mcommit e654f2497050fea4dc82eb1744c7ac304a781443[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NAGARAJ .YS <nagaraj.kondlur@gmail.com>
+Date:   Sun Nov 1 12:48:14 2026 +0530
+
+    Add header comment for JSON tools file
+
+[33mcommit f1d738520dec2d4d76c58cd0408735ba52b66ec7[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Sun Nov 1 12:40:30 2026 +0530
+
+    added json_files
+
+[33mcommit 921e14879a7869f275e7c25365a20d99953bafee[m[33m ([m[1;32mfixadd[m[33m)[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Fri Oct 30 23:58:33 2026 +0530
+
+     fix add function added
+
+[33mcommit 9a79f1ae965c3323e891a0863e4491f8ce1c9dfd[m[33m ([m[1;32mnew3[m[33m, [m[1;32mnew1[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfix2[m[33m, [m[1;32mfix1[m[33m)[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Wed Oct 28 21:43:46 2026 +0530
+
+    added subtraction function
+
+[33mcommit 709aa356bff1a1abf3937e0a8a65f2f94c1b95dd[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Wed Oct 28 19:46:53 2026 +0530
+
+    added functions
+
+[33mcommit f1712b6a099cdbc9f96158734ad3f1d7d90fb720[m
+Author: nagarajys <nagaraj.kondlur7@gmail.com>
+Date:   Wed Oct 28 19:21:54 2026 +0530
+
+    calculator added
