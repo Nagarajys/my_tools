@@ -1,6 +1,6 @@
 def add(a, b):
     print(a + b) # fix add function here
-add(10, 20)
+add(10, 220)
 
 
 
